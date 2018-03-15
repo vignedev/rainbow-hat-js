@@ -1,0 +1,27 @@
+{
+  "name": "rainbow-hat",
+  "version": "1.0.0",
+  "description": "Rainbow HAT library for NodeJS rewritten from Python.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vignedev/rainbow-hat-js.git"
+  },
+  "keywords": [
+    "rpio",
+    "gpio",
+    "rainbow",
+    "hat",
+    "raspberry",
+    "pi"
+  ],
+  "author": "vignedev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vignedev/rainbow-hat-js/issues"
+  },
+  "homepage": "https://github.com/vignedev/rainbow-hat-js#readme"
+}
